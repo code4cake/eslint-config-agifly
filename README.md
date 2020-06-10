@@ -103,9 +103,11 @@ Things to keep in mind:
 
 - We use `commitzen` for contributions
 
-- We use `semver` for releases
+- We follow `semver`  semantic versioning for releases `<patch>, <minor>, <major>`
 
-- A test case accompanied to your PR is not necessary, but greatly appreciated.
+- We document all changes in a [CHANGELOG](CHANGELOG)
+
+- A test case accompanied to your PR is not necessary, **but** greatly appreciated. :)
 
 ---
 
