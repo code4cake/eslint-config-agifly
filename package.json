@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-agifly",
+  "version": "1.0.0",
+  "description": "Eslint configuration for projects",
+  "main": "index.js",
+  "author": "<DS | dante@agifly.be>",
+  "license": "MIT",
+  "private": true
+}
