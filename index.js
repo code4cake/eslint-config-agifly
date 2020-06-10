@@ -36,6 +36,7 @@ module.exports = {
     'no-plusplus': 0,
     'sort-keys': 0,
     'sort-imports': 'off',
+    'max-lines': ['warn', 300], // max-lines of code in a file + comments
 
     // rules for https://github.com/benmosher/eslint-plugin-import
     'import/extensions': 0,
