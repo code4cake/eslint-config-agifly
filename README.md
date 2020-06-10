@@ -5,13 +5,18 @@ Shareable eslint config use for projects.
 
 ## TOC
 
-- [Inside](#Inside)
+- [Features](#Features)
+- [Installation](#Installation)
 - [Usage](#Usage)
 - [Testing](#Testing)
 - [Contribute](#Contribute)
 - [Additional Notes](#AdditionalNotes)
 
-### Inside
+### Features
+
+...
+
+### Installation
 
 ...
 

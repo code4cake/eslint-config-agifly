@@ -1,0 +1,40 @@
+// // If you are using vscode studio for coding
+// // and would like that linting, and formatting
+// // happens automatically as you code
+// // uncomment this file and rename it to `settings.json`
+// // you must have eslint, prettier vscode extensions installed
+// // on your machine.
+// {
+//     "editor.tabSize": 2,
+//     "editor.formatOnSave": false,
+//     // turn it off for JS and JSX, we will do this via eslint
+//     "[javascript]": {
+//       "editor.formatOnSave": false
+//     },
+//     "[javascriptreact]": {
+//       "editor.formatOnSave": false
+//     },
+//     // tell the ESLint plugin to run on save
+//     "eslint.validate": [
+//       "html",
+//       "javascript",
+//       "javascriptreact"
+//     ],
+//     // Optional BUT IMPORTANT: If you have the prettier extension enabled for other languages like CSS and HTML, turn it off for JS since we are doing it through Eslint already
+//     "prettier.disableLanguages": [
+//       "javascript",
+//       "javascriptreact"
+//     ],
+//     "eslint.workingDirectories": [
+//       {
+//         "mode": "auto"
+//       }
+//     ],
+//     "editor.codeActionsOnSave": {
+//       "source.fixAll.eslint": true
+//     },
+//     "cSpell.language": "en,es,fr,nl,de",
+//     "emmet.includeLanguages": {
+//       "javascript": "javascriptreact"
+//     }
+//   }
