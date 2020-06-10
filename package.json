@@ -19,7 +19,7 @@
     "prettier.config.js"
   ],
   "scripts": {
-    "test": "babel-tape-runner ./test/test-*.js"
+    "test": "babel-tape-runner ./__tests__/*.js"
   },
   "homepage": "",
   "repository": {
