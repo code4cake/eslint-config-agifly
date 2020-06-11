@@ -9,7 +9,7 @@ module.exports = {
     'plugin:import/errors',
     'plugin:import/warnings',
     'plugin:react/recommended',
-    'react-hooks',
+    'plugin:react-hooks/recommended',
     'plugin:prettier/recommended',
     'prettier/react',
   ],
