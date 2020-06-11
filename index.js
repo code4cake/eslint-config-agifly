@@ -37,6 +37,10 @@ module.exports = {
     'sort-keys': 0,
     'sort-imports': 'off',
     'max-lines': ['warn', 300], // max-lines of code in a file + comments
+    'no-console': 'warn',
+
+    // general react
+    "react/prop-types": ["warn"],
 
     // rules for https://github.com/benmosher/eslint-plugin-import
     'import/extensions': 0,
