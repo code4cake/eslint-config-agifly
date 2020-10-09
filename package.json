@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-agifly",
+  "name": "@agifly/eslint-config-agifly",
   "version": "1.0.0",
   "description": "Eslint configuration for projects",
   "keywords": [
@@ -7,27 +7,27 @@
     "react",
     "prettier",
     "prettier-config",
-    "eslint-config"
+    "eslint-config",
+    "javascript",
+    "lint",
+    "config"
   ],
   "author": "<DS | dante@agifly.be>",
   "license": "MIT",
   "private": true,
   "main": "index.js",
-  "files": [
-    "index.js",
-    "prettier.js",
-    "prettier.config.js"
-  ],
   "scripts": {
-    "test": "babel-tape-runner ./__tests__/*.js"
+    "test": "babel-tape-runner ./__tests__/*.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix"
   },
-  "homepage": "",
+  "homepage": "https://devtools.agifly.cloud/software-factory/eslint-config-frontend-agifly",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@devtools.agifly.cloud:software-factory/eslint-config-frontend-agifly.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://devtools.agifly.cloud/software-factory/eslint-config-frontend-agifly/-/issues"
   },
   "peerDependencies": {
     "babel-eslint": ">=10.1.0",
