@@ -21,13 +21,13 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix"
   },
-  "homepage": "https://devtools.agifly.cloud/software-factory/eslint-config-frontend-agifly",
+  "homepage": "git+https://github.com:code4cake/eslint-config-agifly.git",
   "repository": {
     "type": "git",
-    "url": "git@devtools.agifly.cloud:software-factory/eslint-config-frontend-agifly.git"
+    "url": "git@github.com:code4cake/eslint-config-agifly.git"
   },
   "bugs": {
-    "url": "https://devtools.agifly.cloud/software-factory/eslint-config-frontend-agifly/-/issues"
+    "url": "git+https://github.com:code4cake/eslint-config-agifly.git"
   },
   "peerDependencies": {
     "babel-eslint": ">=10.1.0",
